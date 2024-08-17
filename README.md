@@ -16,10 +16,10 @@ This React app displays a carousel of slides with auto-sliding and manual naviga
 - **useEffect Hook:** For setting up the auto-slide functionality.
 - **CSS:** For styling the container, slides, and buttons.
 - **Vite:** For fast and efficient development build setup.
+- **Slick Carousel:** For carousel.
 
 
 ## Figma URL
 
 For design inspiration and reference, you can check out the Figma file:
 [Slider](https://www.figma.com/file/QfMzzThSYmgabSvn4t8Yfe/Slider?node-id=0%3A1&t=IpsYjMUn3Xj3Hs3N-1)
-
