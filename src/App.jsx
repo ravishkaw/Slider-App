@@ -1,6 +1,12 @@
+import "./App.css";
+
+import Carousel from "./components/Carousel";
+
 const App = () => {
   return (
-    <div>App</div>
-  )
-}
-export default App
+    <>
+      <Carousel />
+    </>
+  );
+};
+export default App;
